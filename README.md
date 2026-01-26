@@ -66,17 +66,12 @@ With exceptional problem-solving skills and the ability to rapidly master new te
 ### View Online
 Simply visit: **[https://gherbidjaafer.github.io](https://gherbidjaafer.github.io)**
 
-### Local Development
-```bash
-# Clone the repository
-git clone https://github.com/gherbidjaafer/gherbidjaafer.github.io.git
-```
 # Navigate to project directory
 cd gherbidjaafer.github.io
 
 # Open index.html in your browser
 
-###🔧 Future Enhancements
+### 🔧 Future Enhancements
 Add Projects Showcase Section
 
 Implement Dark/Light Mode Toggle
@@ -89,7 +84,7 @@ Add Interactive AI Demos
 
 Include Downloadable CV/Resume
 
-###📞 Contact & Connect
+### 📞 Contact & Connect
 Email: gherbidjafer@gmail.com
 
 Location: Oran, Algeria
@@ -109,7 +104,7 @@ Unsplash for placeholder images
 
 All open-source contributors whose work inspired this design
 
-###📄 License
+# 📄 License
 The code and design are licensed under MIT License.
 
 Personal content (images, biographical text, contact information)
